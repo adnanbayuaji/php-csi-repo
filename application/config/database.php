@@ -75,12 +75,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	'password' => '',
 	'database' => 'csi_db',
 
-	
-	'hostname' => 'localhost',
-	'username' => 'ga-ehs.ga-center',
-	'password' => '64-3Hs',
-	'database' => 'ga_ehs',
-
 */
 $active_group = 'default';
 $query_builder = TRUE;
